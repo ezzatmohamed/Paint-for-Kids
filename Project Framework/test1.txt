@@ -1,0 +1,21 @@
+YELLOW    NOT_FILLED    CYAN      
+18
+
+Triangle     3     486     582     565     182     852     427      3     BLUE      BLUE     
+RECTANGLE     6     992     118     701     370     3     BLUE      BLACK     
+RECTANGLE     0     193     102     495     307     3     BLUE      YELLOW     
+Circle     1     521     310     85       3     BLUE      NOT_FILLED
+RECTANGLE     2     172     268     356     372     3     BLUE      PINK     
+RECTANGLE     4     40     294     329     520     3     BLUE      PINK     
+Circle     5     485     350     148.084       3     BLUE      PINK     
+RECTANGLE     7     752     151     972     319     3     BLUE      YELLOW     
+RECTANGLE     8     1118     429     971     529     3     BLUE      NOT_FILLED
+Circle     9     1022     304     87.2066       3     BLUE      NOT_FILLED
+Triangle     10     26     239     53     67     161     176      3     BLUE      NOT_FILLED
+LINE     11     712     106     554     153     3     BLUE      
+Circle     12     812     499     45.2769       3     BLUE      ORANGE     
+RECTANGLE     13     1043     126     978     170     3     BLUE      ORANGE     
+Triangle     14     1120     290     1132     217     1239     309      3     BLUE      ORANGE     
+LINE     15     691     69     555     113     3     BLUE      
+LINE     16     804     93     737     91     3     YELLOW      
+LINE     17     350     498     436     588     3     YELLOW      

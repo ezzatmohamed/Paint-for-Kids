@@ -1,0 +1,19 @@
+GREEN    BLACK    CYAN      
+16
+
+RECTANGLE     0     151     257     425     421     3     BLUE      YELLOW     
+Circle     1     1063     291     66.2873       3     RED      BLACK     
+Triangle     2     183     226     252     120     367     239      3     RED      BLACK     
+LINE     3     1026     530     665     572     3     ORANGE      
+RECTANGLE     4     650     170     789     283     3     GREEN      BLUE     
+Circle     5     589     293     35       3     BLUE      YELLOW     
+Triangle     6     460     284     496     177     569     256      3     BLUE      YELLOW     
+LINE     7     448     566     111     484     3     GREEN      
+LINE     8     1156     166     1087     410     3     BLUE      
+LINE     9     628     448     757     387     3     YELLOW      
+RECTANGLE     10     33     74     72     145     3     BLUE      NOT_FILLED
+RECTANGLE     11     1009     138     863     240     3     RED      BLACK     
+Triangle     12     340     145     369     95     409     125      3     BLUE      NOT_FILLED
+Triangle     13     529     549     702     459     461     473      3     GREEN      BLUE     
+Circle     14     984     392     53.0377       3     GREEN      BLUE     
+Circle     15     192     139     46.5725       3     BLUE      NOT_FILLED

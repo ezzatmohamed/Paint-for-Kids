@@ -1,0 +1,10 @@
+BLUE    PINK    CYAN      
+7
+
+Triangle     1     5     442     681     66     1272     471      3     BLUE      PINK     
+RECTANGLE     3     81     90     1057     569     3     BLUE      PINK     
+Circle     0     353     295     64.195       3     BLUE      NOT_FILLED
+LINE     2     1006     211     155     552     3     BLUE      
+Triangle     4     280     442     690     327     694     380      3     BLUE      NOT_FILLED
+LINE     5     308     106     854     443     3     BLUE      
+Circle     6     290     361     162.505       3     BLUE      NOT_FILLED
